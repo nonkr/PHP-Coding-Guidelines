@@ -47,7 +47,7 @@ PHP编程规范
 #### 示例
 > 这个示例中简单展示了上文中提到的一些规则：
 
-```
+```php
 <?php
 namespace Vendor\Package;
 
