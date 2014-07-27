@@ -1,11 +1,14 @@
 PHP编程规范
 =========
 
-本规范参考自[PHP-FIG]。
+本规范参考自[PHP-FIG](框架协同工作组)的[PSR-0]，[PSR-1]，[PSR-2]。
 
 [RFC 2119][]中的`必须(MUST)`，`不可(MUST NOT)`，`建议(SHOULD)`，`不建议(SHOULD NOT)`，`可以/可能(MAY)`等关键词将在本规范中用来做一些解释性的描述。
 
-[PHP-FIG]: http://www.php-fig.org/psr
+[PHP-FIG]: https://github.com/php-fig/fig-standards
+[PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
+[PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
+[PSR-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [RFC 2119]: http://www.ietf.org/rfc/rfc2119.txt
 
 1. 通则
